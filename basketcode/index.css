@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    background-color: #1c2945;
+    color: white;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.scores {
+    background-color: black;
+    color: red;
+    border-radius: 5px;
+    height: 80px;
+    margin-bottom: 20px;
+    margin-top: -15px;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    font-size: 70px;
+    
+    
+}
+
+button {
+    background-color: #1c2945;
+    color: lightblue;
+    border: 1px solid lightblue;
+    padding: 6px;
+    border-radius: 5px;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+}
